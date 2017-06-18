@@ -6,8 +6,18 @@
     <description>Recent content on Adventure Time!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2015 23:12:18 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jun 2017 17:10:44 +0000</lastBuildDate>
     <atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Clubs</title>
+      <link>http://example.com/clubs-1/</link>
+      <pubDate>Sun, 18 Jun 2017 17:10:44 +0000</pubDate>
+      
+      <guid>http://example.com/clubs-1/</guid>
+      <description>&lt;p&gt;Wrestling is availble at the following locations on PEI.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Contact</title>
